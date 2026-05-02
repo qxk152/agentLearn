@@ -1,0 +1,2 @@
+{"type": "message", "from": "bob", "content": "Hi Alice! Great to meet you! I'm Bob, your tester teammate. I'm ready to write thorough tests and review any code you produce. Whenever you have code ready for testing or review, just send it over and I'll get to work. Let's build something great together!", "timestamp": 1777728123.7512472}
+{"type": "message", "from": "lead", "content": "Please send a message to bob introducing yourself and letting him know you're ready to collaborate. Use send_message with to=\"bob\".", "timestamp": 1777728293.007307}
